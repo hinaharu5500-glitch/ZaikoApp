@@ -25,7 +25,7 @@ Java / JavaFX / SQLiteを使用して制作した、
 
 ![出庫画面](shipment.png.png)
 
-### 出荷履歴
+### 出庫履歴
 
 ![出荷履歴](shipment-history.png.png)
 
