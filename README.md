@@ -1,33 +1,30 @@
 # ZaikoApp
 
-Java / JavaFX / SQLiteを使用して制作した、  
-製造現場向けの粉末在庫管理デスクトップアプリケーションです。
-
 ## アプリ画面
 
 ### メイン画面
 
-![メイン画面](main.png)
+![メイン画面](main.png.png)
 
 ### 在庫一覧
 
-![在庫一覧](inventory.png)
+![在庫一覧](inventory.png.png)
 
 ### 入庫画面
 
-![入庫画面](receipt.png)
+![入庫画面](領収書.png.png)
 
 ### 領収書履歴
 
-![領収書履歴](receipt-history.png)
+![領収書履歴](領収書履歴.png.png)
 
 ### 出庫画面
 
-![出庫画面](shipment.png)
+![出庫画面](ship.png.png)
 
 ### 出荷履歴
 
-![出荷履歴](shipment-history.png)
+![出荷履歴](出荷履歴.png.png)
 
 ## 制作目的
 
