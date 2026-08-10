@@ -7,27 +7,7 @@ Java / JavaFX / SQLiteを使用して制作した、
 
 ### メイン画面
 
-![メイン画面](main.png)
-
-### 在庫一覧
-
-![在庫一覧](inventory.png)
-
-### 入庫画面
-
-![入庫画面](receipt.png)
-
-### 領収書履歴
-
-![領収書履歴](receipt-history.png)
-
-### 出庫画面
-
-![出庫画面](shipment.png)
-
-### 出荷履歴
-
-![出荷履歴](shipment-history.png)
+![メイン画面](./main.png)
 
 ## 制作目的
 
